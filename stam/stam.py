@@ -1,2 +1,5 @@
+# comment
+
 def asdf():
-    print("hello")
+    print("bye!")
+    print("hello!")
