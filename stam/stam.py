@@ -7,3 +7,6 @@ def asdf():
 
 def f_b():
     pass
+
+def f_c():
+    pass
